@@ -1,0 +1,41 @@
+Ranking Companion 1.2.0
+22 November 2026
+
+NEW: UPDATES INSIDE THE COMPANION
+- Automatic update checks at startup and every six hours while the companion is running.
+- A quiet update notice and patch notes before downloading. Choose Update or Later.
+- Manual Check for updates in Setup & data and the tray menu; automatic checks can be disabled.
+- Signed release information and installer size/SHA-256 verification before installation.
+- Updates wait until Live is closed. Setup preserves accounts, ranks, rewards, history and preferences.
+- Download cancellation and clear offline/error messages. Checking does not upload character or account data.
+- This is the first updater-enabled version: install 1.2 once manually; later releases can be offered inside the app.
+
+INCLUDED FROM THE 1.1 PREVIEWS
+- Automatic account grouping and character discovery, including multiple running accounts and saved offline rosters.
+- Background class-ranking collection across seven categories, including inactive characters with available rankings.
+- Per-character and per-account expected HMC, rank history, HMC changes, focus suggestions and scan visibility.
+- Character-focused insights opened by clicking a character name.
+- Weekly and season reward displays with original item icons and quantities; current game payout schedules where validated.
+- Automatic weekly evidence for played characters. Inactive characters without confirmed evidence remain Unknown; season estimates stay labelled.
+- Cards and Compact list, in-game character order, search and sorting. Compact list displays rankings directly.
+- Moonlit background, class artwork, animations and layouts that adapt to monitor size and Windows display scaling.
+- Start with Live in the system tray, local saving and backups. Google Sheets remains optional.
+- Activity-triggered refresh scheduling, preserving unfinished scan progress across area changes. New scans are at least five minutes apart; normal idle refresh remains 30 minutes after completion.
+
+FIXES
+- Automatic ranking scans no longer open the top-ranker portrait panel during gameplay. Manual F11 lists and portraits remain usable.
+- Responsive layouts and smaller-window scrolling replace monitor-specific sizing.
+
+COMPATIBILITY AND LIMITS
+- Validated game: Live 5.49.10701.2. Unknown executable builds are refused; NEO is not supported by this release.
+- Scan time depends on roster size, server responses and zone changes. Rankings are not instantaneous.
+- Weekly participation is not inferred from season rank. Missing or unvalidated evidence stays Unknown.
+- The upcoming season rollover still requires a live check. Activity scheduling and fresh-PC setup need wider testing.
+- Update metadata is cryptographically signed. The Windows EXE itself is not Authenticode-signed.
+- The dungeon clear/loot tracker is a saved design preview, not part of 1.2.
+
+UPGRADING
+Close Live and exit the companion from its tray menu. Run the 1.2 installer and keep
+"Finish game setup and open Ranking Companion" checked. Existing data stays in place.
+Friends install the same file. Setup detects a single supported installation; custom
+or multiple installations may require selecting the game folder once.
