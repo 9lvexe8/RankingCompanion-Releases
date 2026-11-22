@@ -19,5 +19,7 @@
   "QuietBackgroundRepliesLiveValidated": true,
   "ManualF11AndPortraitLiveValidated": true,
   "InitialQuietScanSeconds": 150.234,
-  "InstallerSHA256": "07EA92F7761ED772CA2C1EA8FB64BDAE6B814C2ADF51DAFF8FC494849168B45D"
+  "InstallerSHA256": "07EA92F7761ED772CA2C1EA8FB64BDAE6B814C2ADF51DAFF8FC494849168B45D",
+  "PublishedFeedSignatureAndDownloadVerified": true,
+  "FutureVersionInstallerHandoffTested": false
 }
