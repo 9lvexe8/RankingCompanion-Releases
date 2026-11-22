@@ -1,0 +1,23 @@
+{
+  "Version": "1.2.0",
+  "Channel": "Stable",
+  "DesktopChecks": "PASS 904 isolated checks. No game, Google authentication or sheet writes used.",
+  "NativeChecks": 344,
+  "CollectorSHA256": "5007E13581BEA4DC1A128D0F2BEBC5195AB3753C1F9F8CE259592D2441B42B03",
+  "CompanionSHA256": "AEDDA1E22E9C9DBB63F60B3DD8860DFEF4BF6A77AACA6651E1D55E6E94800E9D",
+  "ActivityCycleMinimumSeconds": 300,
+  "ActivitySettleSeconds": 20,
+  "NormalRefreshMinutes": 30,
+  "GameBuild": "Live 5.49.10701.2",
+  "GameSHA256": "6AE9777FB13ECD954A2217B35E147BE88AAAF3DE7235DD232723BBC139460E50",
+  "OtherBuildsValidated": false,
+  "ActivityRefreshLiveTestCompleted": false,
+  "CleanMachineInstallationTested": false,
+  "PersonalDataBundled": false,
+  "DigitallySigned": false,
+  "RewardObserverIncluded": true,
+  "QuietBackgroundRepliesLiveValidated": true,
+  "ManualF11AndPortraitLiveValidated": true,
+  "InitialQuietScanSeconds": 150.234,
+  "InstallerSHA256": "07EA92F7761ED772CA2C1EA8FB64BDAE6B814C2ADF51DAFF8FC494849168B45D"
+}
