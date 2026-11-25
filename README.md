@@ -2,7 +2,7 @@
 
 Windows companion for Blade & Soul Live: separate account rosters, background class rankings, expected Hongmoon Coin, history, and weekly/season rewards.
 
-**[Download the latest installer](https://github.com/9lvexe8/RankingCompanion-Releases/releases/latest)** · [1.2.2 patch notes](https://github.com/9lvexe8/RankingCompanion-Releases/releases/tag/v1.2.2)
+**[Download the latest installer](https://github.com/9lvexe8/RankingCompanion-Releases/releases/latest)** · [1.2.3 patch notes](https://github.com/9lvexe8/RankingCompanion-Releases/releases/tag/v1.2.3)
 
 ## Install or upgrade
 
@@ -12,6 +12,14 @@ Windows companion for Blade & Soul Live: separate account rosters, background cl
 4. Enter the world on one character per account. Characters and accounts are discovered automatically, and rankings are collected with F11 closed.
 
 No manual character lists or Google connection are required. Existing accounts, rankings, rewards, history and preferences stay on your PC. Google Sheets is optional.
+
+## Venture Tokens
+
+The **Tokens** page tracks Venture, Brilliant Venture and Sparkling Venture Tokens in normal character inventories, with separate account totals and normal/Premium HMC values.
+
+Enter the world on each character once to record their tokens. Counts refresh while that character is logged in; inactive characters retain their last recorded counts and observation time. Loading inventories do not replace saved counts with temporary zeros. Unread counts and unconfirmed membership remain **Unknown**.
+
+Storage, mail, unclaimed shop items and existing HMC balances are not included. Tokens are never used automatically.
 
 ## Updates
 
