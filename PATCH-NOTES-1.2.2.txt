@@ -1,0 +1,15 @@
+Ranking Companion 1.2.2
+25 November 2026
+
+NEW
+- Automatic game-component updates: matching, verified updates can download in the background and install once Live is closed.
+- Game compatibility status and a manual check in Setup & data.
+- Rankings from ended seasons are archived automatically, ready for the new season.
+
+FIXED & IMPROVED
+- Updated ranking and reward collection for the latest supported Live build.
+- Fixed new-season rewards appearing as "Not checked" despite being available in F11.
+- Game-component repairs now update the full ranking bundle together, with recovery if an update is interrupted.
+- Saved accounts, rankings, rewards, history and preferences are preserved when updating.
+
+The dungeon tracker is still in testing and is not included in this release.
